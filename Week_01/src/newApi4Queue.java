@@ -4,7 +4,7 @@ import java.util.LinkedList;
 /**
  * 用 add first 或 add last 这套新的 API 改写 Deque 的代码
  */
-public class homeWork_01 {
+public class newApi4Queue {
     /**
      * @return
      */
@@ -28,7 +28,7 @@ public class homeWork_01 {
 
 
     public static void main(String args[]) {
-        new homeWork_01().solution();
+        new newApi4Queue().solution();
     }
 
 }
