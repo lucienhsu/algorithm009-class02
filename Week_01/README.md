@@ -11,9 +11,11 @@
     > 2. PriorityQueue 底层实现方法是数组，通过指定 Comparator ，在执行入队、出队等操作时，进行比较从而完成操作，满足优先级高的元素先行；
 
 - [X] 删除排序数组中的重复项（Facebook、字节跳动、微软在半年内面试中考过）
-    > see: algorithm009-class02/Week_01/src/removeDuplicates.java
+    > 见: algorithm009-class02/Week_01/src/removeDuplicates.java
     
-- [ ] 旋转数组（微软、亚马逊、PayPal 在半年内面试中考过）
+- [X] 旋转数组（微软、亚马逊、PayPal 在半年内面试中考过）
+    > 见: algorithm009-class02/Week_01/src/rotate.java
+
 - [ ] 合并两个有序链表（亚马逊、字节跳动在半年内面试常考）
 - [ ] 合并两个有序数组（Facebook 在半年内面试常考）
 - [ ] 两数之和（亚马逊、字节跳动、谷歌、Facebook、苹果、微软在半年内面试中高频常考）
