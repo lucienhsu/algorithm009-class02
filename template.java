@@ -23,7 +23,6 @@ public class template {
 
 
     public static void main(String args[]) {
-        int n = 8;
         System.out.println(new template().solution(4));
     }
 
